@@ -1,0 +1,24 @@
+GESTIONE TOKEN
+ [1] Token Checker + Token Info
+[3] Token Login
+[6]Nickname Changer
+ [10] Bio Changer
+[12] Multiple Token Checker
+
+
+
+RAID TOOLS
+ [2] WeebHook Spammer
+ [4] Server Joiner
+ [5] Server Leaver
+ [6] Server Spammmer
+[9] Typing Spammer
+ [11] Reaction Spammer
+ [7] DM Spammer
+ [8] Friend Spammer
+ALTRO
+ [12] Info
+ [14] Esci
+DA AGGIUNGERE: 
+ACCOUNT NUKER
+SERVER NUKER
